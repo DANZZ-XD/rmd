@@ -14,6 +14,7 @@ pip install bs4
 pip install futures
 
 git clone https://github.com/DANZZ-XD/rmd
+
 cd rmd
 
 python rmd.py
