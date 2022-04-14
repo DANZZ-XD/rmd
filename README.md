@@ -21,3 +21,6 @@ python rmd.py
 
 
 #Beli Lisensi Wa
+
+
+![deskripsi gambar](https://i.ibb.co/r6bsm3f/IMG-20220415-WA0022.jpg)
