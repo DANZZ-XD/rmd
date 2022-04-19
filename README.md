@@ -25,3 +25,5 @@ python rmd.py
 # HASIL NYA
 
 ![deskripsi gambar](https://i.ibb.co/r6bsm3f/IMG-20220415-WA0022.jpg)
+
+![deskripsi gambar](https://i.ibb.co/Tv7RS2S/IMG-20220419-WA0068.jpg)
