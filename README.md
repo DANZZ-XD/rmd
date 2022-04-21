@@ -24,4 +24,4 @@ python rmd.py
 
 # HASIL NYA
 
-[deskripsi gambar](https://ibb.co/Lkc6WRW/IMG-20220419-WA0068.jpg)
+![deskripsi gambar](https://i.ibb.co/r6bsm3f/IMG-20220415-WA0022.jpg)
